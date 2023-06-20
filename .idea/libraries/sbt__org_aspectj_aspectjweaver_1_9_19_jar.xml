@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: org.aspectj:aspectjweaver:1.9.19:jar" external-system-id="SBT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.var/app/com.jetbrains.IntelliJ-IDEA-Ultimate/cache/coursier/v1/https/repo1.maven.org/maven2/org/aspectj/aspectjweaver/1.9.19/aspectjweaver-1.9.19.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.var/app/com.jetbrains.IntelliJ-IDEA-Ultimate/cache/coursier/v1/https/repo1.maven.org/maven2/org/aspectj/aspectjweaver/1.9.19/aspectjweaver-1.9.19-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.var/app/com.jetbrains.IntelliJ-IDEA-Ultimate/cache/coursier/v1/https/repo1.maven.org/maven2/org/aspectj/aspectjweaver/1.9.19/aspectjweaver-1.9.19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
